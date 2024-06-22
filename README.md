@@ -1,4 +1,2 @@
 # Study-Sync
-I have designed a user-friendly website for study materials named Study-Sync, Using HTML and CSS tech stack ,Which includes the landing page the.
-It contains templates, images ,and animations ,and the information on study materials are made out of crads using grids.
-And the Page is made out in such a way it follows responsive designs.with is responsive in mobile phones as well as in laptops ,depending on the resoultion of the screen. 
+I have designed a user-friendly website for study materials named Study-Sync, utilizing HTML and CSS. The website features a landing page that includes templates, images, animations, and information on study materials presented through cards using grid layouts. The site is built with responsive design principles, ensuring optimal functionality on both mobile devices and laptops, adapting seamlessly to different screen resolutions.
